@@ -15,13 +15,13 @@ The target tuple is: (building, beautiful, building, great).
 
 With different templates, we get different results:
 T1: "building is great because building is beautiful"
-T2: "[AC]** room_overall** [OT] beautiful [AC] building [SP] great"
+T2: "[AC] **room_overall** [OT] beautiful [AC] building [SP] great"
 T3: (building, beautiful, building, great)
 
 Hence, we obtain:
 (building, beautiful, room_overall, great) × 1
 
-(building, beautiful, building, great) × 2** (selected)**
+(building, beautiful, building, great) × 2 **(selected)**
 
 We notice an error in one of the three templates (marked in bold), and **after applying our voting mechanism(marked in bold), the final prediction is corrected**. This demonstrates that considering the similarities between templates can aggregate accurately predicted quadruplets from multiple templates while filtering out error predictions.
 
