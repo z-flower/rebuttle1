@@ -19,14 +19,14 @@ Thanks for your suggestions. We will include discussions on how large language m
 Additionally, given that aspect categories in practical scenarios are not fixed and can change, fast adaptation to unseen aspects using only labeled samples becomes crucial. Therefore, our work focuses on exploring the few-shot setting, where adaptation to new aspects with limited labeled data is central to our research.
 
 
-__Q3:__The results may not be solid as few-shot experiments need to be repeated and averaged across multiple random seeds. The authors should also report the standard deviation of methods to show a significant difference between methods.
+__Q3:__ The results may not be solid as few-shot experiments need to be repeated and averaged across multiple random seeds. The authors should also report the standard deviation of methods to show a significant difference between methods.
 
 __A3:__ 
 Thanks for your input. To ensure a fair comparison, we've adhered to the settings of previous experiments. However, we recognize that solely reporting the average of results from 5 fixed seeds might not sufficiently showcase the superiority of our method. 
 
 In the camera remedy, we intend to make adjustments by including the standard deviation of our method's performance, thereby illustrating significant differences between methods more effectively.
 
-__Q4:__What is the additional cost (time or memory) of predicting and aggregating with multiple templates?
+__Q4:__ What is the additional cost (time or memory) of predicting and aggregating with multiple templates?
 
 __A4:__ 
 Thanks for your question. Indeed, there is an additional time consumption during the phase of predicting and aggregating with multiple templates. We apologize for not mentioning this in the paper. We will make modifications in the camera remedy to report the additional cost (whether in time or memory) incurred during predicting and aggregating with multiple templates.
