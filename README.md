@@ -31,7 +31,7 @@ __Q4:__What is the additional cost (time or memory) of predicting and aggregatin
 __A4:__ 
 Thanks for your question. Indeed, there is an additional time consumption during the phase of predicting and aggregating with multiple templates. We apologize for not mentioning this in the paper. We will make modifications in the camera remedy to report the additional cost (whether in time or memory) incurred during predicting and aggregating with multiple templates.
 
-[^1]Kim E, Klinger R. Who feels what and why? annotation of a literature corpus with semantic roles of emotions[C]//Proceedings of the 27th International Conference on Computational Linguistics. 2018: 1345-1359.
-[^2]Brown T, Mann B, Ryder N, et al. Language models are few-shot learners[J]. Advances in neural information processing systems, 2020, 33: 1877-1901.
-[^3] Yu Y, Zhang R, Xu R, et al. Cold-start data selection for few-shot language model fine-tuning: A prompt-based uncertainty propagation approach[J]. arXiv preprint arXiv:2209.06995, 2022.
-[^4]Chu T, Song Z, Yang C. Fine-tune language models to approximate unbiased in-context learning[J]. arXiv preprint arXiv:2310.03331, 2023.
+[^1]:Kim E, Klinger R. Who feels what and why? annotation of a literature corpus with semantic roles of emotions[C]//Proceedings of the 27th International Conference on Computational Linguistics. 2018: 1345-1359.
+[^2]:Brown T, Mann B, Ryder N, et al. Language models are few-shot learners[J]. Advances in neural information processing systems, 2020, 33: 1877-1901.
+[^3]:Yu Y, Zhang R, Xu R, et al. Cold-start data selection for few-shot language model fine-tuning: A prompt-based uncertainty propagation approach[J]. arXiv preprint arXiv:2209.06995, 2022.
+[^4]:Chu T, Song Z, Yang C. Fine-tune language models to approximate unbiased in-context learning[J]. arXiv preprint arXiv:2310.03331, 2023.
