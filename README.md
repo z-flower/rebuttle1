@@ -1,4 +1,5 @@
 Review #1
+
 __Q1:__ The annotation process is not rigorous as the annotators are allowed to communicate with each other, and this may inflate the agreement. Also, the agreement metric should follow previous works on ABSA (https://aclanthology.org/L18-1104/)
 
 __A1:__ 
